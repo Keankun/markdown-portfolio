@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of laser](https://en.wikipedia.org/wiki/Laser#/media/File:Laser_play.jpg)
